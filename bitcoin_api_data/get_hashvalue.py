@@ -3,6 +3,10 @@ import json
 import sys
 from datetime import datetime
 
+# Copyright (C) 2025 Tyler K. Stevens
+# Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0)
+# See the LICENSE file in this repository for details.
+
 # API URL
 API_URL = "https://insights.braiins.com/api/v1.0/hashrate-value-history?timeframe=all"
 

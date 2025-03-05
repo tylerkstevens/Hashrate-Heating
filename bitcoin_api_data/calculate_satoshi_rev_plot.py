@@ -5,6 +5,10 @@ import matplotlib.pyplot as plt
 import math  # Import math module for rounding up
 from datetime import datetime, timedelta
 
+# Copyright (C) 2025 Tyler K. Stevens
+# Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0)
+# See the LICENSE file in this repository for details.
+
 # API URL for hashvalue (in sats/TH/s/day)
 API_URL = "https://insights.braiins.com/api/v1.0/hashrate-value-history?timeframe=all"
 

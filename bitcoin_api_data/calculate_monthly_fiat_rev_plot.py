@@ -4,6 +4,10 @@ import sys
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 
+# Copyright (C) 2025 Tyler K. Stevens
+# Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0)
+# See the LICENSE file in this repository for details.
+
 # API URL for hashprice data (USD/TH/s/day)
 API_URL = "https://insights.braiins.com/api/v1.0/hashrate-value-history?timeframe=all"
 

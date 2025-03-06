@@ -6,6 +6,9 @@ They are intended to help perform Heat Audit and Thermo-economic Analysis for Ha
 
 ## License
 
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+- **Free for Non-Commercial Use** (CC BY-NC 4.0)  
+- **Commercial Use Requires a License** (See [`COMMERCIAL-LICENSE.md`](COMMERCIAL-LICENSE.md))
 
-See the [LICENSE](LICENSE) file for details.
+If you want to use this software commercially, please contact me for a commercial license.
+
+contact@tylerstevens.me
